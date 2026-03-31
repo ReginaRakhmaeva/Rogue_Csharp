@@ -1,0 +1,16 @@
+{
+  "SessionStats": [
+    {
+      "TreasuresCollected": 29,
+      "MaxLevelReached": 3,
+      "EnemiesDefeated": 4,
+      "FoodConsumed": 1,
+      "ElixirsConsumed": 1,
+      "ScrollsConsumed": 1,
+      "HitsLanded": 13,
+      "HitsMissed": 10,
+      "HitsTaken": 16,
+      "CellsMoved": 170
+    }
+  ]
+}
