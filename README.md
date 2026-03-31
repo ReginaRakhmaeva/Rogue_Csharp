@@ -94,3 +94,6 @@
 ```bash
 dotnet build
 dotnet run
+
+## Граф коммитов
+![Alt текст](repository_graph/.PNG)
